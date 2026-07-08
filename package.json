@@ -1,5 +1,5 @@
 {
-  "name": "qa-ci-cd-quality-gates-portfolio",
+  "name": "quality-assurance-platform",
   "version": "1.0.0",
   "private": true,
   "description": "CI/CD quality gates portfolio with unit, API, and UI smoke tests.",

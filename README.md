@@ -1,6 +1,6 @@
 # QA CI/CD Quality Gates Portfolio
 
-[![QA Quality Gates](https://github.com/LaVieDetoile/qa-ci-cd-quality-gates-portfolio/actions/workflows/quality-gates.yml/badge.svg)](https://github.com/LaVieDetoile/qa-ci-cd-quality-gates-portfolio/actions/workflows/quality-gates.yml)
+[![QA Quality Gates](https://github.com/LaVieDetoile/quality-assurance-platform/actions/workflows/quality-gates.yml/badge.svg)](https://github.com/LaVieDetoile/quality-assurance-platform/actions/workflows/quality-gates.yml)
 
 Demonstrates how automated quality checks fit into a modern CI/CD pipeline using a small local demo application.
 
